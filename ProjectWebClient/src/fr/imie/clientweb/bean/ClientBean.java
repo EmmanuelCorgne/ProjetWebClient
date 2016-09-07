@@ -73,5 +73,9 @@ public class ClientBean {
 	public void setErr(String err) {
 		this.err = err;
 	}
+	
+	public void testModifcation(){
+		
+	}
 
 }
